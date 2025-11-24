@@ -9,21 +9,24 @@ body {
   src: url("../font/Montserrat-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
+  font-display: swap; 
+  font-synthesis: none;  
 }
 @font-face {
   font-family: "Montserrat";
   src: url("../font/Montserrat-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
-  font-display: swap;
+  font-display: swap;   
+  font-synthesis: none;  
 }
 @font-face {
   font-family: "Lato-regular";
   src: url("../font/Lato-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
+  font-display: swap;  
+  font-synthesis: none;  
 }
 
 
